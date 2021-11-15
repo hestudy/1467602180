@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1467602180)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=1467602180&repo=self-resume&show_owner=true)](https://github.com/1467602180/self-resume)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=1467602180&repo=flutter-getx-doc&show_owner=true)](https://github.com/1467602180/flutter-getx-doc)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=1467602180&repo=cn_get_cli&show_owner=true)](https://github.com/1467602180/cn_get_cli)
